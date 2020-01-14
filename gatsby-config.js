@@ -5,7 +5,7 @@
  */
 
 module.exports = {
-  plugins = [
+  plugins: [
     {
       resolve: `gatsby-source-wordpress`,
       options: {
